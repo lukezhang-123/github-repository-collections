@@ -3,6 +3,8 @@ Record the attractive repository in GitHub
 
 记录一下遇到的有意义、有意思的github库
 
+按 `Ctrl`再点击链接，新窗口打开哟
+
 ---
 
 ### 163MusicLyrics
