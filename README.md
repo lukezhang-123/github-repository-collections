@@ -1,6 +1,9 @@
 # github-repository-collections
 Record the attractive repository in GitHub
 
+记录一下遇到的有意义、有意思的github库
+---
+
 ### 163MusicLyrics
 
 地址: [https://github.com/jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics)
