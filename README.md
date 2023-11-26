@@ -23,3 +23,11 @@ Record the attractive repository in GitHub
 
 介绍地址: [【Python】抓取淘宝数据库月报，发送邮件，本地存档，保存元信息](https://blog.51cto.com/l0vesql/2299836)
 
+---
+
+### win32 c++ small sample demo, console, gui
+
+地址: [https://github.com/gammasoft71/Examples_Win32](https://github.com/gammasoft71/Examples_Win32)
+
+说明: 很多个小的，简单的win32样例，console彩色，console api显示与读取，gui各种控件简单使用，可参考
+
