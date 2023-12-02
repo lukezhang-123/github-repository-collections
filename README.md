@@ -45,4 +45,4 @@ Record the attractive repository in GitHub
 
 地址: https://github.com/nateshmbhat/pyttsx3
 
-说明: 使用python的pyttsx3库，实现离线tts，文本转语言，离线有声小说生成，库小使用简单好用，缺点是声音没有在线tts的可配置高，可以自己用用
+说明: 使用python的pyttsx3库，实现离线tts(text to speech)，文本转语言，离线有声小说生成，库小使用简单好用，缺点是声音没有在线tts的可配置高，可以自己用用
