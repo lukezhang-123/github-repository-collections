@@ -31,3 +31,18 @@ Record the attractive repository in GitHub
 
 说明: 很多个小的，简单的win32样例，console彩色，console api显示与读取，gui各种控件简单使用，可参考
 
+---
+
+### Run macOS on QEMU in Linux
+
+地址: https://github.com/kholia/OSX-KVM
+
+说明: 在linux发行版系统里，使用qemu模拟器安装macos操作系统玩玩
+
+---
+
+### offline tts, pyttsx3, python library
+
+地址: https://github.com/nateshmbhat/pyttsx3
+
+说明: 使用python的pyttsx3库，实现离线tts，文本转语言，离线有声小说生成，库小使用简单好用，缺点是声音没有在线tts的可配置高，可以自己用用
