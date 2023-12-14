@@ -46,3 +46,19 @@ Record the attractive repository in GitHub
 地址: https://github.com/nateshmbhat/pyttsx3
 
 说明: 使用python的pyttsx3库，实现离线tts(text to speech)，文本转语言，离线有声小说生成，库小使用简单好用，缺点是声音没有在线tts的可配置高，可以自己用用
+
+---
+
+### vue,js 数据双向绑定原理
+
+地址: https://github.com/bison1994/two-way-data-binding
+
+说明：js实现数据双向绑定内部原理
+
+1) 通过Object.defineProperty()实现对象属性=赋值时触发响应的处理函数
+2) 通过element.addEventListener()实现html页面dom对象值变化时触发响应函数
+
+博客介绍地址：
+1) https://blog.csdn.net/fuhanghang/article/details/106144475
+2) https://www.atmosera.com/blog/data-binding-pure-javascript/
+
