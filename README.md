@@ -69,3 +69,11 @@ Record the attractive repository in GitHub
 地址: https://github.com/kimhongsu/amtemu.v0.9.2-painter/blob/master/amtemu.v0.9.2-painter.exe
 
 用法: https://www.baidu.com/s?wd=amtemu%20v0.9.2%E6%80%8E%E4%B9%88%E7%94%A8
+
+---
+
+### ccleaner的扩展清理规则
+
+地址: https://github.com/moscadotto/winapp2
+
+说明: 下载Winapp2.ini，放到ccleaner根目录，启动较慢
