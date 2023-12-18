@@ -77,3 +77,17 @@ Record the attractive repository in GitHub
 地址: https://github.com/moscadotto/winapp2
 
 说明: 下载Winapp2.ini，放到ccleaner根目录，启动较慢
+
+---
+
+### mit线性代数 12页
+
+地址: https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/tree/main
+
+说明: 这份笔记名为《线性代数的艺术》，是基于MIT大牛Gilbert Strang教授的《每个人的线性代数》制作的,日本学者Kenji Hiranabe把这部368页的巨著浓缩成图解，制成了这套笔记并免费开源，后被国内网友kf liu翻译成了中文,被收录进了原书介绍页面的interesting link
+
+链接:
+
+1) https://news.mit.edu/2023/gilbert-strang-made-linear-algebra-fun-0531
+2) https://www.qbitai.com/2023/07/67308.html
+
