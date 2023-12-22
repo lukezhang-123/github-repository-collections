@@ -91,3 +91,19 @@ Record the attractive repository in GitHub
 1) https://news.mit.edu/2023/gilbert-strang-made-linear-algebra-fun-0531
 2) https://www.qbitai.com/2023/07/67308.html
 
+---
+
+### golang实现简单sock5代理
+
+实现比较多，而且go语言很方便实现，记录几个有用的
+
+https://github.com/shikanon/socks5proxy
+
+https://github.com/armon/go-socks5
+
+https://stackoverflow.com/questions/74172574/create-socks5-proxy-in-go
+
+https://www.sobyte.net/post/2022-01/go-socket5/
+
+https://github.com/luyuhuang/subsocks
+
