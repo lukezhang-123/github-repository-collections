@@ -107,3 +107,11 @@ https://www.sobyte.net/post/2022-01/go-socket5/
 
 https://github.com/luyuhuang/subsocks
 
+---
+
+### 浏览器插件，保存har文件
+
+https://github.com/firefox-devtools/har-export-trigger
+
+部分网站会检测禁止打开浏览器的开发者工具，所以可以试试这样导出har文件，爬取网站内容
+
