@@ -115,3 +115,13 @@ https://github.com/firefox-devtools/har-export-trigger
 
 部分网站会检测禁止打开浏览器的开发者工具，所以可以试试这样导出har文件，爬取网站内容
 
+---
+
+### Python 潮流周刊/Python Trending Weekly
+
+官方：https://pythoncat.top/
+
+GitHub：https://github.com/chinesehuazhou/python-weekly
+
+Python 潮流周刊/Python Trending Weekly是一个由豌豆花下猫用户收集整理，目前Python 潮流周刊精心筛选国内外的 250+ 信息源，挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容，帮助所有读者精进 Python 技术，并增长职业和副业的收入。
+
