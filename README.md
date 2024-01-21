@@ -13,6 +13,9 @@ Record the attractive repository in GitHub
 
 https://github.com/localsend/localsend
 
+https://localsend.org
+
+
 图形界面，使用简单方便，支持Windows 	macOS 	Linux 	Android 	iOS 	Fire OS
 
 ---
