@@ -7,6 +7,16 @@ Record the attractive repository in GitHub
 
 ---
 
+### LocalSend, 开源局域网文件无线传输，支持全平台
+
+<img alt="LocalSend Logo" src="https://localsend.org/assets/logo-512.2434b6e6.png" height="200">
+
+https://github.com/localsend/localsend
+
+图形界面，使用简单方便，支持Windows 	macOS 	Linux 	Android 	iOS 	Fire OS
+
+---
+
 ### 163MusicLyrics
 
 地址: [https://github.com/jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics)
