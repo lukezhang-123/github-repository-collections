@@ -7,6 +7,14 @@ Record the attractive repository in GitHub
 
 ---
 
+### zip密码破解
+
+https://github.com/asaotomo/ZipCracker
+
+由Hx0战队开发的高性能多并发zip破解工具
+
+---
+
 ### LocalSend, 开源局域网文件无线传输，支持全平台
 
 <img alt="LocalSend Logo" src="https://localsend.org/assets/logo-512.2434b6e6.png" height="200">
