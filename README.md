@@ -21,6 +21,10 @@ https://github.com/mdn/webextensions-examples
 
 https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension
 
+每个插件demo的功能说明
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Examples
+
+
 ---
 
 ### zip密码破解
