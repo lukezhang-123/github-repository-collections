@@ -7,6 +7,14 @@ Record the attractive repository in GitHub
 
 ---
 
+### firefox 插件教程，demo样例
+
+https://github.com/mdn/webextensions-examples
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension
+
+---
+
 ### zip密码破解
 
 https://github.com/asaotomo/ZipCracker
