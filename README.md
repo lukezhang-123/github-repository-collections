@@ -7,6 +7,14 @@ Record the attractive repository in GitHub
 
 ---
 
+### firefox插件，下载har文件
+
+https://github.com/firefox-devtools/har-export-trigger
+
+https://addons.mozilla.org/en-US/firefox/addon/har-export-trigger
+
+---
+
 ### firefox 插件教程，demo样例
 
 https://github.com/mdn/webextensions-examples
