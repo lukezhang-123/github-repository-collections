@@ -7,6 +7,14 @@ Record the attractive repository in GitHub
 
 ---
 
+### windows 11 任务栏透明工具
+
+https://github.com/TranslucentTB/TranslucentTB/releases
+
+最新更新后，windows商店下载的TranslucentTB不行，github直接下载运行
+
+---
+
 ### firefox插件，下载har文件
 
 https://github.com/firefox-devtools/har-export-trigger
