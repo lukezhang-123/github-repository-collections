@@ -7,6 +7,12 @@ Record the attractive repository in GitHub
 
 ---
 
+###本地chatgpt部署，训练好的模型，直接使用
+
+https://github.com/antimatter15/alpaca.cpp
+
+---
+
 ### windows 11 任务栏透明工具
 
 https://github.com/TranslucentTB/TranslucentTB/releases
