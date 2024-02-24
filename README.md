@@ -6,6 +6,15 @@ Record the attractive repository in GitHub
 按 `Ctrl`再点击链接，新窗口打开哟
 
 ---
+### html hls m3u8 player
+
+https://github.com/videojs/video.js
+
+https://videojs.com/
+
+继承文档api: https://docs.videojs.com/
+
+---
 
 ### 本地chatgpt部署，训练好的模型，直接使用
 
