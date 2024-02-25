@@ -6,6 +6,12 @@ Record the attractive repository in GitHub
 按 `Ctrl`再点击链接，新窗口打开哟
 
 ---
+
+### windows 桌面显示cpu网速等监控
+
+https://github.com/zhongyang219/TrafficMonitor
+
+---
 ### html hls m3u8 player
 
 https://github.com/videojs/video.js
