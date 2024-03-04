@@ -7,6 +7,21 @@ Record the attractive repository in GitHub
 
 ---
 
+### 本地大模型部署
+
+1)
+
+https://github.com/PromtEngineer/localGPT.git
+
+https://www.51cto.com/article/778996.html
+
+2)
+https://github.com/THUDM/ChatGLM-6B
+
+https://www.cnblogs.com/rude3knife/p/llm-free-deploy.html
+
+---
+
 ### windows 桌面显示cpu网速等监控
 
 https://github.com/zhongyang219/TrafficMonitor
