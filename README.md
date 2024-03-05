@@ -13,6 +13,10 @@ https://github.com/LTRData/ImDisk
 
 https://github.com/ArsenalRecon/Arsenal-Image-Mounter
 
+https://github.com/tmcdos/ramdisk
+
+https://sourceforge.net/projects/imdisk-toolkit/
+
 ---
 
 ### 本地大模型部署
