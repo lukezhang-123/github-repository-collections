@@ -7,6 +7,14 @@ Record the attractive repository in GitHub
 
 ---
 
+### windows 虚拟内存盘，把部分内存模拟为硬盘分区
+
+https://github.com/LTRData/ImDisk
+
+https://github.com/ArsenalRecon/Arsenal-Image-Mounter
+
+---
+
 ### 本地大模型部署
 
 1)
