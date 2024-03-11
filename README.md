@@ -7,6 +7,18 @@ Record the attractive repository in GitHub
 
 ---
 
+### 开源中文ocr
+
+百度开源的PaddleOCR
+
+https://github.com/PaddlePaddle/PaddleOCR
+
+python，pip安装，轻量效果可以
+
+https://github.com/breezedeus/CnOCR
+
+---
+
 ### windows 虚拟内存盘，把部分内存模拟为硬盘分区
 
 https://github.com/LTRData/ImDisk
