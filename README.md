@@ -21,6 +21,10 @@ https://github.com/zfl9/ipt2socks
 
 用于将 iptables(REDIRECT/TPROXY) 流量转换为 socks5(tcp/udp) 流量
 
+可参考的配置
+
+https://harttle.land/2022/11/22/linux-share-proxy-over-lan.html
+
 ---
 
 ### 开源中文ocr
