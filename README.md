@@ -7,6 +7,22 @@ Record the attractive repository in GitHub
 
 ---
 
+### 透明代理 tproxy，把iptables转发的流量转为socks5流量
+
+redsocks
+
+https://github.com/darkk/redsocks
+
+redsocks2
+
+https://github.com/semigodking/redsocks
+
+https://github.com/zfl9/ipt2socks
+
+用于将 iptables(REDIRECT/TPROXY) 流量转换为 socks5(tcp/udp) 流量
+
+---
+
 ### 开源中文ocr
 
 百度开源的PaddleOCR
