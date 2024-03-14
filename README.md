@@ -7,6 +7,12 @@ Record the attractive repository in GitHub
 
 ---
 
+### 官方maven原本settings.xml
+
+https://github.com/apache/maven/blob/master/apache-maven/src/assembly/maven/conf/settings.xml
+
+---
+
 ### 透明代理 tproxy，把iptables转发的流量转为socks5流量
 
 redsocks
