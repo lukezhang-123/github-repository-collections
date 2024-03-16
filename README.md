@@ -7,6 +7,16 @@ Record the attractive repository in GitHub
 
 ---
 
+### autohotkey,按键精灵，自动按键模拟
+
+https://github.com/AutoHotkey/AutoHotkey
+
+https://www.autohotkey.com/download/
+
+模拟按键和鼠标，脚本语言定制自动批量，v2和v1版本，使用v2版本
+
+---
+
 ### 官方maven原本settings.xml
 
 https://github.com/apache/maven/blob/master/apache-maven/src/assembly/maven/conf/settings.xml
